@@ -2,7 +2,7 @@
 - 👀 I’m interested in HTML, CSS, Bootstrap, and Mysqli
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on making websites
-- 📫 How to reach me. You can reach me by email at jehaut23@gmail.com
+- 📫 How to reach me. You can reach me by email at valenjehaut@tutanota.com
 
 <!---
 valen-tino/valen-tino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

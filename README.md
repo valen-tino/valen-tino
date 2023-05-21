@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **React JS, Mongo DB, & Tailwind CSS**
 
-- 👨‍💻 All of my projects are available at [valenjehaut.vercel.app](valenjehaut.vercel.app)
+- 👨‍💻 All of my projects are available at [tino.pw](tino.pw)
 
 - 💬 Ask me about **React JS & Figma**
 
 - 📫 How to reach me **you can reach me on: valenjehaut@tutanota.com**
 
-- 📄 Know about my experiences [https://valenjehaut.vercel.app/Valen-Jehaut.pdf](https://valenjehaut.vercel.app/Valen-Jehaut.pdf)
+- 📄 Know about my experiences [https://tino.pw/Valen-Jehaut.pdf](https://tino.pw/Valen-Jehaut.pdf)
 
 - ⚡ Fun fact **I'm quite addicted to coffee and also likes EDM as well!**
 
